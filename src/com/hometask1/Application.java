@@ -1,4 +1,4 @@
-package com.hometask;
+package com.hometask1;
 
 public class Application {
 
